@@ -1,4 +1,3 @@
-# Projeto 3 - Chute o número
 # objetivo: Criar um algorítimo que gera um valor aleatório e eu tenho que ficar tentando o número até eu acertar
 import random 
 import PySimpleGUI as sg
